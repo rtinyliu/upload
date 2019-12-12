@@ -19,7 +19,7 @@
     "koa-static": "^5.0.0",
     "koa2-connect-history-api-fallback": "^0.1.2",
     "koa2-cors": "^2.0.6",
-    "mongoose": "^5.5.4",
+    "mongoose": "^5.7.5",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
